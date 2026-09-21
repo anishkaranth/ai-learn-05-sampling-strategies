@@ -1,0 +1,9 @@
+{
+  "snapshot": "smoke_run",
+  "seed": 42,
+  "entropy_temp_0.5": 1.2699802367014927,
+  "entropy_temp_1.5": 3.518470886606872,
+  "entropy_topp_0.9": 2.66991861662988,
+  "unique_topk_5": 5.0,
+  "runtime_s": 0.97
+}
